@@ -1,0 +1,3 @@
+=== Daftar Branch ===
+origin	https://github.com/rasqasakim-jpg/Myportofolio.git (fetch)
+origin	https://github.com/rasqasakim-jpg/Myportofolio.git (push)
